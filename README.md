@@ -2,6 +2,10 @@
 
 This project is a Java-based application built with Maven, utilizing several Spring Boot modules and libraries for enhanced functionality and ease of development.
 
+### Bug Log
+
+Error in ReviewSerive.java - 7/31
+
 ### Technologies Used
 
 - Java: The programming language used for this project.
