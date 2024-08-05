@@ -5,6 +5,7 @@ This project is a Java-based application built with Maven, utilizing several Spr
 ### Bug Log
 
 Error in ReviewSerive.java - 7/31
+Resolved through indicating parameter clearly - 8/5
 
 ### Technologies Used
 
